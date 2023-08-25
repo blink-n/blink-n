@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blink-n
 - 👀 I’m interested in blockchain tech and open source code.
-- 🌱 I’m currently learning Rust/Substrate.
+- 🌱 I’m currently Treasurer for The Kusamarian.
 - 💞️ I’m looking to collaborate on Rust/Substrate projects.
 - 📫 How to reach me blink_nDoesDeFi@protonmail.com, @blink_nDoesDeFi (twitter) and app.subsocial.network/@blinkin.chaos
 
